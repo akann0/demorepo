@@ -1,5 +1,3 @@
-import java.beans.Transient;
-
 import org.junit.*;
 import static org.junit.Assert.*;
 
